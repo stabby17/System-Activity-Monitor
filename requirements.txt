@@ -1,0 +1,21 @@
+# GUI
+tkinter
+
+# Image Processing
+Pillow>=10.0.0
+
+# Input Monitoring
+pynput>=1.7.6
+
+# Audio Processing
+simpleaudio>=1.0.4
+sounddevice>=0.4.6
+soundfile>=0.12.1
+
+# System Utilities
+psutil>=5.9.0
+
+# Development Tools
+black>=23.3.0  # Code formatting
+flake8>=6.0.0  # Linting
+pytest>=7.3.1  # Testing
